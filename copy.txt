@@ -1,0 +1,53 @@
+ <div class="container-fluid">
+        <div class="row min-vh-100 flex-cloumn flex-md-row">
+              <aside class="col-12 col-md-3 col-xl-2 p-0 bg-dark flex-shrink-1">
+
+               <nav class=" navbar navbar-expand-md navbar-dark bd-dark flex-md-column flex-row align-items-center py-2 text-center sticky-top" id="sidebar">
+                <div class="text-center p-3">
+                  <img src=" " alt="Profile picture" class="img-fluid rounded-circle my-4 p-1 d-none d-md-block " >
+                  <a href="#" class="navbar-brand mx-0 font-weight-bold text-nowrap">Bob Smith </a>
+                    
+                </div>
+            <button type="button" data-bs-toggle="offcanvas" class="navbar-toggler border-0 order-1" data-toggle="collapse" data-target="#nav"
+
+                aria-controls="nav" aria-expanded = "false" aria-label = "Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+              <div class="collapse navbar-collapse order-last" id="nav">
+                <ul class=" navbar-nav flex-column w-100 justify-content-center">
+                  <li class="nav-item">
+                      <a href="#" class="nav-link active text-white">Discover</a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="#" class="nav-link text-white">Search</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link text-white">Favourites</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link text-white">Playlists</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link text-white ">Charts</a>
+                </li>
+             
+                </ul>
+                 
+              </div>
+
+               </nav>
+                        
+                         
+              </aside>
+              <main class="col px-0 flex-grow-1">
+                 <div class="container py-5"> 
+                     <h1 class="font-weight-light"> hello</h1>
+                 </div>
+              </main>
+        </div>
+        </div>
+  
+
+            
+    </body>
